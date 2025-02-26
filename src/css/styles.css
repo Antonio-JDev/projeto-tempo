@@ -10,7 +10,7 @@ body {
 .container {
     background-color: #1f2949;
     color: #fcfcfc;
-    max-width: 320px;
+    max-width: 330px;
     text-align: center;
     background-image: url("../imagens/background.png");
     background-size: cover;
