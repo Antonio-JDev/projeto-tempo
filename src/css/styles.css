@@ -1,5 +1,5 @@
 body {
-    background-color: #eeeeee;
+    background-color: #396082;
     font-family: "Red Hat Display", sans-serif;
     display: flex;
     align-items: center;
@@ -9,13 +9,13 @@ body {
 
 .container {
     background-color: #1f2949;
-    color: #ffffff;
-    max-width: 330px;
+    color: #fcfcfc;
+    max-width: 320px;
     text-align: center;
     background-image: url("../imagens/background.png");
     background-size: cover;
     border-radius: 15px;
-    box-shadow: rgba(0, 0,0,0.2 ) 0 10px 50px;
+    box-shadow: rgba(0, 0,0,0.6 ) 0 10px 50px;
 }
 
 .busca {
